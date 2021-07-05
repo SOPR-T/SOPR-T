@@ -23,7 +23,8 @@ For the dataset corresponding to Gym-MuJoCo_v2 used in our work, you can also di
 
 ## Policy models
 
-The training policies, validation policies and test policies can be found in [Policy models] (https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing). 
+The training policies, validation policies and test policies can be found in 
+- [Policy models](https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing). 
 
 
 ## Training
