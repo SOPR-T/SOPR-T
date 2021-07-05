@@ -23,8 +23,7 @@ You can also directly download the data [Gym-MuJoCo_v2](http://rail.eecs.berkele
 
 ## Policy models
 
-The training policies, validation policies and test policies can be found here 
-- [Policy models](https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing)
+The training policies, validation policies and test policies can be found here [Policy models](https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing).
 
 
 ## Training
@@ -97,9 +96,7 @@ The results will be automatically saved at save_dir as .txt files.
 
 ## SOPR-T Models 
 
-You can download our trained SOPR-T models here:
-
-- [SOPR-T models](https://drive.google.com/drive/folders/18QNVhh3Fv8FXrdC-sr-TdI_SHTF4Si00?usp=sharing) 
+You can download our trained SOPR-T models here [SOPR-T models](https://drive.google.com/drive/folders/18QNVhh3Fv8FXrdC-sr-TdI_SHTF4Si00?usp=sharing). 
 
 
 
