@@ -23,7 +23,7 @@ For the dataset corresponding to Gym-MuJoCo_v2 used in our work, you can also di
 
 ## Policy models
 
-The training policies, validation policies and test policies can be found in [here](https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing). 
+The training policies, validation policies and test policies can be found in [Policy models] (https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing). 
 
 
 ## Training
@@ -98,7 +98,7 @@ The results will be automatically saved at save_dir as .txt files.
 
 You can download our trained SOPR-T models here:
 
-- [Ranknet](https://drive.google.com/drive/folders/18QNVhh3Fv8FXrdC-sr-TdI_SHTF4Si00?usp=sharing) 
+- [SOPR-T models](https://drive.google.com/drive/folders/18QNVhh3Fv8FXrdC-sr-TdI_SHTF4Si00?usp=sharing) 
 
 
 
