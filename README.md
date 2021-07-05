@@ -12,19 +12,19 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-The implementation of policy models used in this work is based on the d3rlpy repository https://github.com/takuseno/d3rlpy. We used a copy of it and made a tiny change on it. You can find the change in line 255 in `d3rlpy-master/d3rlpy/models/torch/policies.py`.
+The implementation of policy models used in this work is based on the [d3rlpy repository](https://github.com/takuseno/d3rlpy). We used a copy of it and made a tiny change on it. You can find the change in line 255 in `d3rlpy-master/d3rlpy/models/torch/policies.py`.
 
 
 ## Dataset
 
-We evaluate SOPR on D4RL dataset https://github.com/rail-berkeley/d4rl, which is commonly used in offline RL studies.
-For the dataset corresponding to Gym-MuJoCo_v2 used in our work, you can also directly download in http://rail.eecs.berkeley.edu/datasets/offline_rl/gym_mujoco_v2.
+We evaluate SOPR on [D4RL dataset](https://github.com/rail-berkeley/d4rl), which is commonly used in offline RL studies.
+You can also directly download the data [Gym-MuJoCo_v2](http://rail.eecs.berkeley.edu/datasets/offline_rl/gym_mujoco_v2) corresponding to the tasks used in our work.
 
 
 ## Policy models
 
-The training policies, validation policies and test policies can be found in 
-- [Policy models](https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing). 
+The training policies, validation policies and test policies can be found here 
+- [Policy models](https://drive.google.com/file/d/1yPrnvyJNK4zmVyvFdtUI8bVOtZxO0qhN/view?usp=sharing)
 
 
 ## Training
